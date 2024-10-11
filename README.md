@@ -64,6 +64,23 @@ Currently, I'm focused on **improving my Backend skills** and **learning Java** 
 
 ---
 
+## 😂 Fun Fact
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="fun gif" width="300px"/>
+</div>
+
+**Did you know?**  
+The password "123456" is still used by millions of people.  
+It's like locking your front door, but leaving the key under the doormat with a sign that says,  
+"**Key is here!**" 🗝️🔓
+
+---
+
+
+
+---
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Fokoda799&icon=2&color=0" alt="Profile Views">
