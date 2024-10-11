@@ -4,6 +4,14 @@
   <img src="77caa32884d735d439ade45ba37feaf2.gif" alt="Github readme banner" width="100%" height="400px">
 </p>
 
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Fokoda799&icon=2&color=0" alt="Profile Views">
+  </a>
+</p>
+
+
 # 💫 About Me:
 I began my journey in software engineering with a strong passion for **Backend Development**. My experience has shaped me into a **problem solver** and an **ambitious developer**. 💡  
 Currently, I'm focused on **improving my Backend skills** and **learning Java** 📚. I'm also excited about collaborating on **open-source projects** and contributing to impactful codebases 🚀.
@@ -67,24 +75,10 @@ Currently, I'm focused on **improving my Backend skills** and **learning Java** 
 ## 😂 Fun Fact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="fun gif" width="300px"/>
+  <p> When you forget to include a .gitignore file </p>
+  <img src="GY6cXpZW4AAIBzI.webp" alt="fun gif" width="300px"/>
 </div>
 
-**Did you know?**  
-The password "123456" is still used by millions of people.  
-It's like locking your front door, but leaving the key under the doormat with a sign that says,  
-"**Key is here!**" 🗝️🔓
-
 ---
-
-
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Fokoda799&icon=2&color=0" alt="Profile Views">
-  </a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
