@@ -1,11 +1,14 @@
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  🚀 Welcome to my space
-</marquee>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=30&pause=1000&color=8E73F7&background=1956FF00&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Welcome+to+the+code+zone+%E2%9C%A8" alt="Typing SVG" />
 
 <p align="center">
-  <img src="77caa32884d735d439ade45ba37feaf2.gif" alt="Github readme banner" width="100%" height="400px">
-</p>
+<img src="77caa32884d735d439ade45ba37feaf2.gif" alt="Github readme banner" width="100%" height="400px">
 
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
