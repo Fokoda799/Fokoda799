@@ -47,7 +47,9 @@ Currently, I’m focused on low-level programming, working on C and assembly pro
 
 <!-- ================== Tech Stack ================== -->
 <p align="center">
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Code&weight=700&size=30&pause=1000&color=25F764&background=1956FF00&width=435&lines=%F0%9F%92%BB+Tech+Stack+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
 </p>
 
 | 🌐 Languages & Frameworks | 🖥️ Tools & Technologies | 🛠️ DevOps & Database |
