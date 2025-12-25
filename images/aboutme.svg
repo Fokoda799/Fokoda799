@@ -4,12 +4,12 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
                 :root {
-                --color-background: ;
+               	--color-background: ;
                 --axis-x: 1px;
                 --axis-y: 4rem;
                 --delay: 10;
                 --color-black: #000;
-                --color-white: #79A500;
+                --color-white: #8E73F7FF;
                 --color-orange: #D49C3D;
                 --color-red: #D14B3D;
                 --color-violet: #CF52EB;
@@ -115,8 +115,8 @@
                 .c-rainbow__layer--blue {
                 --text-color: var(--color-blue);
                 }
-                .c-rainbow__layer--green {
-                --text-color: var(--color-green);
+                .c-rainbow__layer--purple {
+                --text-color: var(--color-purple);
                 }
                 .c-rainbow__layer--yellow {
                 --text-color: var(--color-yellow);
@@ -134,13 +134,13 @@
 			</style>
 			<div class="container">
                 <ul class="c-rainbow">
-                    <li class="c-rainbow__layer c-rainbow__layer--yellow">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--green">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--blue">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--violet">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--red">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--orange">⚠️MY TERMINAL⚠️</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--white">⚠️MY TERMINAL⚠️</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--yellow">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--purple">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--blue">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--violet">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--red">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--orange">💫 ABOUT ME 💫</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--white">💫 ABOUT ME 💫</li>
                 </ul>
             </div>
         </div>
