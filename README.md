@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=5000&pause=999&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  🚀 Welcome to my space
+</marquee>
 
 <p align="center">
   <img src="77caa32884d735d439ade45ba37feaf2.gif" alt="Github readme banner" width="100%" height="400px">
