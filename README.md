@@ -1,99 +1,74 @@
-<!-- ================== Typing SVG Banner ================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=30&pause=1000&color=8E73F7&background=1956FF00&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Welcome+to+the+code+zone+%E2%9C%A8" 
-       alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=700&size=28&pause=1000&color=8E73F7&background=FF000000&center=false&vCenter=true&width=500&lines=Hey%2C+I'm+Abdellah+%F0%9F%91%8B;Software+Engineer+%26+Builder" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Fokoda799&color=8E73F7&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Fokoda799?style=flat-square&color=8E73F7&label=Followers" alt="Followers" />
 </p>
 
-<!-- ================== Main GIF Banner ================== -->
-<p align="center">
-  <img src="77caa32884d735d439ade45ba37feaf2.gif" alt="Github readme banner" width="100%" height="400px">
+---
+
+## About
+
+Software engineer with hands-on experience across frontend, backend, and full-stack development.
+Currently deep in **low-level programming** — C and Assembly — while staying sharp on modern web tooling.
+
+- 🔭 &nbsp;Working on: **C / Assembly systems projects** + **full-stack web apps**
+- 🌱 &nbsp;Exploring: **systems-level programming**, memory management, OS internals
+- 🤝 &nbsp;Open to: **collaborations**, open-source contributions, interesting problems
+- 📫 &nbsp;Reach me: add your email or socials here
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+**Databases & DevOps**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Fokoda799&show_icons=true&theme=radical&border_color=8E73F7FF&hide_border=false&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Fokoda799&theme=radical&layout=compact&border_color=8E73F7FF&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
-<!-- ================== Marquee SVG ================== -->
-<p align="center">
-  <img src="./images/marquee.svg" alt="Marquee SVG">
+<p align="left">
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Fokoda799&theme=radical&border=8E73F7FF" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Fokoda799&repo=alx-project-nexus&theme=radical&border_color=8E73F7FF" alt="Pinned Repo" height="165" />
 </p>
 
-<!-- ================== Profile Views Counter ================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fokoda799&color=blueviolet&style=plastic" alt="Profile Views">
+---
+
+## Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=Fokoda799&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" alt="Trophies" width="100%" />
 </p>
 
-<!-- ================== Decorative Divider ================== -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
-<!-- ================== About Me Section ================== -->
-<p align="center">
-  <img src="./images/aboutme.svg" width="600" alt="About Me Banner">
-</p>
-
-<blockquote>
-💻 I started my journey in software engineering driven by a curiosity for building efficient and impactful software. Over time, I’ve gained hands-on experience in frontend, backend, and full-stack development, which has strengthened my skills as a problem solver and an adaptable developer. 💡
-
-Currently, I’m focused on low-level programming, working on C and assembly projects 📚, while continuing to explore different frameworks, tools, and technologies. I’m also passionate about contributing to open-source projects and creating meaningful codebases 🚀.
-
-🔭 I’m currently working on:
-- C and Assembly projects 💻
-- Exploring new systems-level programming concepts ⚙️
-- Continuing to build experience across full-stack development 🌐
-</blockquote>
-
-<!-- ================== Divider ================== -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<!-- ================== Tech Stack ================== -->
-<p align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Code&weight=700&size=30&pause=1000&color=25F764&background=1956FF00&width=435&lines=%F0%9F%92%BB+Tech+Stack+%F0%9F%92%BB)](https://git.io/typing-svg)
-  
-</p>
-
-| 🌐 Languages & Frameworks | 🖥️ Tools & Technologies | 🛠️ DevOps & Database |
-|---------------------------|------------------------|---------------------|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) |
-
-<!-- ================== Divider ================== -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<!-- ================== Decorative SVGs ================== -->
-<p align="center">
-  <img src="./images/thanks.svg" alt="Thanks Banner">
-  <img src="./images/stats.svg" width="600" alt="Stats Banner">
-</p>
-
-<!-- ================== GitHub Stats Section ================== -->
-<p align="center">
-  <!-- 📊 GitHub Stats -->
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Fokoda799&show_icons=true&theme=radical&border_color=8E73F7FF" alt="Fokoda799 GitHub Stats">
-  
-  <!-- 📊 Streak Stats -->
-  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Fokoda799&theme=radical&border=8E73F7FF" alt="Fokoda799 GitHub Streak">
-</p>
-
-<p align="center">
-  <!-- 📙 Top Languages -->
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Fokoda799&theme=radical&layout=compact&border_color=8E73F7FF&langs_count=6" alt="Fokoda799 Top Languages" width="40%">
-  
-  <!-- ✨ Pinned Repo -->
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Fokoda799&repo=alx-project-nexus&theme=radical&border_color=8E73F7FF" alt="Fokoda799 Pinned Repo" width="40%">
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=Fokoda799&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest" alt="Fokoda799 Trophies 1" width="48%">
-  
-  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=Fokoda799&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars" alt="Fokoda799 Trophies 2" width="48%">
-</p>
-
-<!-- ================== Footer Divider ================== -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <br/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="Footer SVG">
-</p>
+<sub>Built with focus · Powered by curiosity</sub>
