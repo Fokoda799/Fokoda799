@@ -58,7 +58,7 @@ Currently deep in **low-level programming** — C and Assembly — while staying
 
 <p align="left">
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Fokoda799&theme=radical&border=8E73F7FF" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Fokoda799&repo=alx-project-nexus&theme=radical&border_color=8E73F7FF" alt="Pinned Repo" height="165" />
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Fokoda799&repo=InkTrail&theme=radical&border_color=8E73F7FF" alt="Pinned Repo" height="165" />
 </p>
 
 ---
